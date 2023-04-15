@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 conflict branch
-=======
-file cua main
->>>>>>> main
